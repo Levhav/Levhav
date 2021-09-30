@@ -1,2 +1,2 @@
-- 👋 Hi, I’m [Trapenok Victor](https://github.com/VictorTrapenok)
+- 👋 Hi, I’m [Victor Trapenok](https://github.com/VictorTrapenok)
 - 👀 [My curent github profile here](https://github.com/VictorTrapenok)
